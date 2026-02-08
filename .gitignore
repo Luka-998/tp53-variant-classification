@@ -1,0 +1,12 @@
+"ignore these: " 
+*.env 
+__pycache__/
+venv*
+*.pyc 
+"ignoring the large txt and csv files ~ 3.5 gb +" 
+*.csv 
+*_raw.txt
+*.zip 
+# Python virtual environment
+.venv/
+venv/
